@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[LINK_TO_YOUR_BANNER_IMAGE_HERE]" alt="A banner image for Yersai's profile"/>
+  <img src="https://github.com/YersaiMendezS/YersaiMendezS/blob/main/codecookerbanner.png?raw=true" alt="A banner image for Yersai's profile"/>
 </p>
 
 # Hi there, I'm Yersai Mendez Sandoval 👋
