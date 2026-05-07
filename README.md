@@ -108,7 +108,7 @@
 <h3>✨ A Little More About Me</h3>
 <ul>
   <li><strong>Pronouns:</strong> He/Him</li>
-  <li><strong>Fun Fact:</strong>strong> I love One Piece</li>
+  <li><strong>Fun Fact:</strong> I love One Piece</li>
   <li><strong>Hobbies:</strong> When I'm not coding or keeping up with the latest F1 race, I enjoy playing games.</li>
 </ul>
 
