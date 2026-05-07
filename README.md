@@ -13,17 +13,17 @@
 <ul>
   <li>🛠️ I recently built and deployed a gamified To-Do list desktop application.</li>
   <li>💻 This application is built in C# using WPF.</li>
-  <li>⚔️ It features a custom Master-Detail pattern combining an "RPG Journal" TreeView for planning and a "Quest Board" Kanban system for daily execution[cite: 54].</li>
+  <li>⚔️ It features a custom Master-Detail pattern combining an "RPG Journal" TreeView for planning and a "Quest Board" Kanban system for daily execution.</li>
   <li>🤖 I am officially diving into the world of Artificial Intelligence! I'm actively overcoming my hesitation and starting my journey into learning about LLMs.</li>
   <li>🏫 I am wrapping up a collaborative school system project.</li>
-  <li>🤝 I am a founding member of my university's software development group, <strong>CIDT (Centro de Desarrollo e Innovación de Tecnología)</strong>[cite: 84].</li>
+  <li>🤝 I am a founding member of my university's software development group, <strong>CIDT (Centro de Desarrollo e Innovación de Tecnología)</strong>.</li>
   <li>✍️ I have plans to start a personal blog to document my journey and improve my writing skills.</li>
 </ul>
 
 <hr>
 
 <h3>🚀 My Tech Stack</h3>
-<p>A collection of the tools, languages, and frameworks I use to bring ideas to life[cite: 86].</p>
+<p>A collection of the tools, languages, and frameworks I use to bring ideas to life.</p>
 
 <table align="center">
   <tr>
@@ -96,19 +96,20 @@
   </tr>
 </table>
 
-<p><strong>Other Skills:</strong> Web Development | Mobile Development | Project Management | UI/UX Design | Agile Methodologies [cite: 87, 88]</p>
+<p><strong>Other Skills:</strong> Web Development | Mobile Development | Project Management | UI/UX Design | Agile Methodologies</p>
 
 <hr>
 
 <h3>🧠 Professional End Goals & Exploring Next</h3>
-<p>While I am currently focusing on building strong foundations as a Software Engineer (SWE), my ultimate career end goal is to pivot into the intersection of Cybersecurity 🛡️ and Artificial Intelligence 🤖[cite: 88]. I want to transition from traditional software engineering into developing secure, cutting-edge AI systems, as I firmly believe that is where the future of tech is heading[cite: 89].</p>
+<p>While I am currently focusing on building strong foundations as a Software Engineer (SWE), my ultimate career end goal is to pivot into the intersection of Cybersecurity 🛡️ and Artificial Intelligence 🤖. I want to transition from traditional software engineering into developing secure, cutting-edge AI systems, as I firmly believe that is where the future of tech is heading.</p>
 
 <hr>
 
 <h3>✨ A Little More About Me</h3>
 <ul>
   <li><strong>Pronouns:</strong> He/Him</li>
-  <li><strong>Hobbies:</strong> When I'm not coding or keeping up with the latest F1 race, I enjoy playing FPS and RPG games.</li>
+  <li><strong>Fun Fact:</strong>strong> I love One Piece</li>
+  <li><strong>Hobbies:</strong> When I'm not coding or keeping up with the latest F1 race, I enjoy playing games.</li>
 </ul>
 
 <hr>
