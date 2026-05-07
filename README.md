@@ -117,14 +117,25 @@
 <h3>📫 Let's Connect!</h3>
 <p>You can find me on the following platforms. Let's build something amazing together!</p>
 
-<h3>📫 Let's Connect!</h3>
-<p>You can find me on the following platforms. Let's build something amazing together!</p>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/yersaimendezs" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="Yersai's LinkedIn" height="40" width="40" /></a>
-  <a href="YOUR_TWITTER_URL_OR_OTHER_SOCIAL" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Yersai's Twitter" height="40" width="40" /></a>
-  <a href="mailto:yersai.mendez.dev@gmail.com" target="_blank"><img src="https://simpleicons.org/icons/gmail.svg" alt="Email Yersai" height="40" width="40" /></a>
-</p>
+<table>
+  <tr>
+    <td align="center" style="border: none; background: none;">
+      <a href="https://www.linkedin.com/in/yersaimendezs" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="Yersai's LinkedIn" height="40" width="40" />
+      </a>
+    </td>
+    <td align="center" style="border: none; background: none;">
+      <a href="YOUR_TWITTER_URL_OR_OTHER_SOCIAL" target="_blank">
+        <img src="https://skillicons.dev/icons?i=twitter" alt="Yersai's Twitter" height="40" width="40" />
+      </a>
+    </td>
+    <td align="center" style="border: none; background: none;">
+      <a href="mailto:yersai.mendez.dev@gmail.com" target="_blank">
+        <img src="https://simpleicons.org/icons/gmail.svg" alt="Email Yersai" height="40" width="40" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <hr>
 
