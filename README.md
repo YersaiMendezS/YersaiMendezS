@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/YersaiMendezS/YersaiMendezS/blob/main/codecookerbanner.png?raw=true" alt="A banner image for Yersai's profile"/>
+  <img src="https://github.com/YersaiMendezS/YersaiMendezS/blob/main/one piece f1.png?raw=true" alt="A banner image for Yersai's profile"/>
   <h1>Hi there, I'm Yersai Mendez Sandoval 👋</h1>
 </div>
 
